@@ -28,7 +28,7 @@ The course introduce text mining and text manipulation basics. This course begin
 
 - **Course 5 Applied Social Network Analysis in Python**
 
-The course introduce network analysis through tutorials using the NetworkX library. This final course begins with an understanding of what network analysis is and motivations for why we might model phenomena as networks. We further learn the concept of connectivity and network robustness and explore ways of measuring the importance or centrality of a node in a network. Finally, we explore the evolution of networks over time and cover models of network generation and the link prediction problem
+The course introduce network analysis through tutorials using the NetworkX library. This final course begins with an understanding of what network analysis is and motivations for why we might model phenomena as networks. We further learn the concept of connectivity and network robustness and explore ways of measuring the importance or centrality of a node in a network. Finally, we explore the evolution of networks over time and cover models of network generation and the link prediction problem.
 
 **Just for reference and I hope you can star⭐ me.**
   
