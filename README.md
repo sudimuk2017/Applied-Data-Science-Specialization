@@ -16,7 +16,7 @@ The course introduce the basics of the python programming environment, including
 
 - **Course 2 Applied Plotting, Charting and Data Representation in Python**
 
-The course introduce information on visualization basics, with a focus on reporting and charting using the matplotlib library. This course starts with a design and information literacy perspective, touching on what makes a good and bad visualization, and what statistical measures translate into in terms of visualizations. It later focuses on the technology used to make visualizations in python, matplotlib, and introduces us to best practices when creating basic charts and how to realize design decisions in the framework. It later demonstrates a variety of basic statistical charts that help us to identify when a particular method is good for a particular problem. It ends with a discussion of other forms of structuring and visualizing data
+The course introduce information on visualization basics, with a focus on reporting and charting using the matplotlib library. This course starts with a design and information literacy perspective, touching on what makes a good and bad visualization, and what statistical measures translate into in terms of visualizations. It later focuses on the technology used to make visualizations in python, matplotlib, and introduces us to best practices when creating basic charts and how to realize design decisions in the framework. It later demonstrates a variety of basic statistical charts that help us to identify when a particular method is good for a particular problem. It ends with a discussion of other forms of structuring and visualizing data.
 
 - **Course 3 Applied Machine Learning in Python**
 
