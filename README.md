@@ -1,6 +1,6 @@
 # Applied Data Science Specialization By University of Michigan
 
-This repo contains all the projects and assignments that I have completed as a part of the specialization on Coursera.The 5 courses in this University of Michigan specialization introduce learners to data science through the python programming language.This skills-based specialization is intended for learners who have basic a python or programming background, and want to apply statistical, machine learning, information visualization, text analysis, and social network analysis techniques through popular python toolkits such as pandas, matplotlib, scikit-learn, nltk, and networkx to gain insight into their data.
+This repo contains all the projects and assignments that I have completed as a part of the specialization on Coursera.The 5 courses in this University of Michigan specialization introduce learners to data science through the python programming language.This skills-based specialization is intended for learners who have basic a python or programming background, and want to apply statistical, machine learning, information visualization, text analysis, and social network analysis techniques through popular python toolkits such as pandas, matplotlib, scikit-learn, nltk, and networkx to gain insight into their data
 
 **The solutions have been uploaded for personal academic purposes and can be used as a reference by others (but I strongly recommend trying out the assignments on your own).**
 
@@ -12,11 +12,11 @@ Language: Python
 
 - **Course 1 Introduction to Data Science in Python**
 
-The course introduce the basics of the python programming environment, including fundamental python programming techniques such as lambdas, reading and manipulating csv files, and the numpy library. This course introduces data manipulation and cleaning techniques using the popular python pandas data science library and introduces the abstraction of the Series and DataFrame as the central data structures for data analysis, along with help on how to use functions such as groupby, merge, and pivot tables effectively.
+The course introduce the basics of the python programming environment, including fundamental python programming techniques such as lambdas, reading and manipulating csv files, and the numpy library. This course introduces data manipulation and cleaning techniques using the popular python pandas data science library and introduces the abstraction of the Series and DataFrame as the central data structures for data analysis, along with help on how to use functions such as groupby, merge, and pivot tables effectively
 
 - **Course 2 Applied Plotting, Charting and Data Representation in Python**
 
-The course introduce information on visualization basics, with a focus on reporting and charting using the matplotlib library. This course starts with a design and information literacy perspective, touching on what makes a good and bad visualization, and what statistical measures translate into in terms of visualizations. It later focuses on the technology used to make visualizations in python, matplotlib, and introduces us to best practices when creating basic charts and how to realize design decisions in the framework. It later demonstrates a variety of basic statistical charts that help us to identify when a particular method is good for a particular problem. It ends with a discussion of other forms of structuring and visualizing data.
+The course introduce information on visualization basics, with a focus on reporting and charting using the matplotlib library. This course starts with a design and information literacy perspective, touching on what makes a good and bad visualization, and what statistical measures translate into in terms of visualizations. It later focuses on the technology used to make visualizations in python, matplotlib, and introduces us to best practices when creating basic charts and how to realize design decisions in the framework. It later demonstrates a variety of basic statistical charts that help us to identify when a particular method is good for a particular problem. It ends with a discussion of other forms of structuring and visualizing data
 
 - **Course 3 Applied Machine Learning in Python**
 
