@@ -30,7 +30,6 @@ The course introduce applied machine learning, focusing more on the techniques a
 
 
 
-
 The course introduce text mining and text manipulation basics. This course begins with an understanding of how text is handled by python, the structure of text both to the machine and to humans, and an overview of the nltk framework for manipulating text. Later we focus on common manipulation needs, including regular expressions (searching for text), cleaning text, and preparing text for use by machine learning processes. Then we apply basic natural language processing methods to text, and demonstrate how text classification is accomplished. Finally, we explore more advanced methods for detecting the topics in documents and grouping them by similarity (topic modelling).
 
 - **Course 5 Applied Social Network Analysis in Python**
