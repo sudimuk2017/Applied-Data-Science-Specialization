@@ -22,7 +22,6 @@ The course introduce information on visualization basics, with a focus on report
 
 
 
-
 - **Course 3 Applied Machine Learning in Python**
 
 The course introduce applied machine learning, focusing more on the techniques and methods than on the statistics behind these methods. This course starts with a discussion of how machine learning is different than descriptive statistics, and introduces the scikit learn toolkit through a tutorial. The issue of dimensionality of data is discussed, and the task of clustering data, as well as evaluating those clusters, is tackled. Supervised approaches for creating predictive models are described, through which we can apply the scikit learn predictive modelling methods while understanding process issues related to data generalizability (e.g. cross validation, overfitting). This course ends with a look at more advanced techniques, such as building ensembles, and practical limitations of predictive models.
