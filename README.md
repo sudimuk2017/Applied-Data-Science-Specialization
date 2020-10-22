@@ -12,7 +12,6 @@ This repo contains all the projects and assignments that I have completed as a p
 
 
 
-
 Offered by: [University Of Michigan](https://www.coursera.org/specializations/data-science-python)
 
 
