@@ -9,7 +9,6 @@ Offered by: [University Of Michigan](https://www.coursera.org/specializations/da
 Language: Python
 
 
-
 ## Specialization Certificate:  [Verified by Coursera](https://www.coursera.org/account/accomplishments/specialization/6ZWUQK7N9VBG)
 
 
