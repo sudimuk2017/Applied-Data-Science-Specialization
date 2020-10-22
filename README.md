@@ -2,13 +2,62 @@
 
 This repo contains all the projects and assignments that I have completed as a part of the specialization on Coursera.The 5 courses in this University of Michigan specialization introduce learners to data science through the python programming language.This skills-based specialization is intended for learners who have basic a python or programming background, and want to apply statistical, machine learning, information visualization, text analysis, and social network analysis techniques through popular python toolkits such as pandas, matplotlib, scikit-learn, nltk, and networkx to gain insight into their data.
 
+
+
+
+
+
+
 **The solutions have been uploaded for personal academic purposes and can be used as a reference by others (but I strongly recommend trying out the assignments on your own).**
+
+
+
+
+
+
+
+
+
+
 
 Offered by: [University Of Michigan](https://www.coursera.org/specializations/data-science-python)
 
+
+
+
+
+
+
+
+
+
 Language: Python
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Specialization Certificate:  [Verified by Coursera](https://www.coursera.org/account/accomplishments/specialization/6ZWUQK7N9VBG)
+
+
+
+
+
+
+
+
+
+
 
 - **Course 1 Introduction to Data Science in Python**
 
