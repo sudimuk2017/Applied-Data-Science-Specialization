@@ -11,7 +11,6 @@ Language: Python
 
 
 
-
 ## Specialization Certificate:  [Verified by Coursera](https://www.coursera.org/account/accomplishments/specialization/6ZWUQK7N9VBG)
 
 
